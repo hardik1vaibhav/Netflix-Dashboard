@@ -1,5 +1,5 @@
 # Netflix Dashboard Using Power BI
-In this project, An Excel file has been used as a dataset that has stored different Movies and TV Shows started from 2008 to 2021. There are different columns in this dataset like:-
+In this project, An Excel file has been used as a dataset that has stored different Movies and TV Shows starting from 2008 to 2021. There are different columns in this dataset like:-
 1. Show_id
 2. Type
 3. Title
