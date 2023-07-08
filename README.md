@@ -13,4 +13,4 @@ In this project, An Excel file has been used as a dataset that has stored differ
 
 I have made a powerful visualization that is giving insights into 2 broad categories i.e. Movies & TV Shows. The visualization is giving insights into the popularity of Movies &/or TV Shows in different countries, the Top 10 Genres, and Ratings. 
 
-git tag PowerBI 
+
