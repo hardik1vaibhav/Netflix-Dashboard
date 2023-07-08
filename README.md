@@ -1,5 +1,5 @@
-# Netflix-Dashboard Using Power BI
-In this project, An CSV file has been used as a Dataset. There are different columns in this dataset like :-
+# Netflix Dashboard Using Power BI
+In this project, An Excel file has been used as a dataset that has stored different Movies and TV Shows started from 2008 to 2021. There are different columns in this dataset like:-
 1. Show_id
 2. Type
 3. Title
@@ -11,4 +11,4 @@ In this project, An CSV file has been used as a Dataset. There are different col
 9. Genre
 10. Description
 
-I have made a powerful visualization which is giving insights about 2 broad categories i.e. Movies & TV Shows.
+I have made a powerful visualization that is giving insights into 2 broad categories i.e. Movies & TV Shows. The visualization is giving insights into the popularity of Movies &/or TV Shows in different countries, the Top 10 Genres, and Ratings. 
